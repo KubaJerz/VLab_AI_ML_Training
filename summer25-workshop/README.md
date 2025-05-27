@@ -27,7 +27,11 @@ If you are working on [Google Colab](https://colab.research.google.com/), you ca
 
 - Week 2:
     - 05/26: Memorial Day - NO CLASS
-    - 05/27: AI not ML |  [without answers](https://colab.research.google.com/drive/1kJAXgKzbfAg4KlCIzpG4GofpSEHhVNau?authuser=2) | [with answers](https://colab.research.google.com/drive/1SVAa70Au2fMvcEZxnwQ17mNI-m6_NQHv?authuser=2)
-    - 05/28: Clusters and Regression | [without answers](https://colab.research.google.com/drive/1F0tOIYe-2Mk9Rd2tX950FmYiQllqxfL7?authuser=2) | [with answers](https://colab.research.google.com/drive/1g6NqceIhQhbdeJ0G3mcdMfbytm8MPKtK?authuser=2)
-    - 05/29: KNN and DT | [without answers](https://colab.research.google.com/drive/1HGUekfCcPyLmoP-SlH0RTMblLhQbZn0-?authuser=2) | [with answers](https://colab.research.google.com/drive/1KkX7b5UyDiao0ScJXCKQLcYBunNTDq9K?authuser=2)
-    - 05/30: ANN | [without answers](https://colab.research.google.com/drive/1iLl-iExzAdsp3cu_VVRQ2Lv7haPyv-zq?authuser=2) | [with answers](https://colab.research.google.com/drive/1X4sbhLZePS_u4RkaPRjho5gNvZQ081cJ?authuser=2)
+
+    - 05/27: AI not ML |  [without answers](https://colab.research.google.com/drive/1kJAXgKzbfAg4KlCIzpG4GofpSEHhVNau) | [with answers](https://colab.research.google.com/drive/1SVAa70Au2fMvcEZxnwQ17mNI-m6_NQHv)
+    
+    - 05/28: Clusters and Regression | [without answers](https://colab.research.google.com/drive/1F0tOIYe-2Mk9Rd2tX950FmYiQllqxfL7) | [with answers](https://colab.research.google.com/drive/1g6NqceIhQhbdeJ0G3mcdMfbytm8MPKtK)
+    
+    - 05/29: KNN and DT | [without answers](https://colab.research.google.com/drive/1HGUekfCcPyLmoP-SlH0RTMblLhQbZn0-) | [with answers](https://colab.research.google.com/drive/1KkX7b5UyDiao0ScJXCKQLcYBunNTDq9K)
+    
+    - 05/30: ANN | [without answers](https://colab.research.google.com/drive/1iLl-iExzAdsp3cu_VVRQ2Lv7haPyv-zq) | [with answers](https://colab.research.google.com/drive/1X4sbhLZePS_u4RkaPRjho5gNvZQ081cJ)
