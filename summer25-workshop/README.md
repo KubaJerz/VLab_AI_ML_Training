@@ -23,12 +23,10 @@ If you are working on [Google Colab](https://colab.research.google.com/), you ca
         - [KNN 1](https://colab.research.google.com/drive/12JLPydJz3NgA8kcR0QZXaaSDL_rxMWus) | [KNN 2](https://colab.research.google.com/drive/1v_K6ZrKpiUX3ZT0ThWEisgcU_BN9-1rp) | [Decision Tree](https://colab.research.google.com/drive/1Kb9pnqSIKCYcHAY0GofD1QtVOh2af9jt) | [Random Forest](https://colab.research.google.com/drive/1ECs71TK1BjhAXJwZYcH5ecq978vOQ6Bh)
 
         - [ANN](https://colab.research.google.com/drive/1srZ3EIQr-QZO3vwndqZFBvdckNOzmC-l)
-<br>
-<br>
 
     - 05/26: Memorial Day - NO CLASS
 
-    - 05/27: AI not ML |  [without answers](https://colab.research.google.com/drive/1kJAXgKzbfAg4KlCIzpG4GofpSEHhVNau) | [with answers](https://colab.research.google.com/drive/1SVAa70Au2fMvcEZxnwQ17mNI-m6_NQHv)
+    - 05/27: AI not ML |  [without answers](https://colab.research.google.com/drive/1kJAXgKzbfAg4KlCIzpG4GofpSEHhVNau) | [with answers](https://colab.research.google.com/drive/1SVAa70Au2fMvcEZxnwQ17mNI-m6_NQHv) | [recording of the session](https://sc-edu.zoom.us/rec/play/3YXj4YWCG3IsFWhhE73K7EoCbrVHwR3vm2fmZefstFckofzCpgeWcpYfJOmdGdgkAyL_C1eK1wNFI-qw.mX6gNTu4o7IGmPir?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1748353972000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fsc-edu.zoom.us%2Frec%2Fshare%2F-NgWWwoUxIaRE0Ud8O2kz97_QpHudvP3kJBt3Ix9KC1wXDItn8IenqqVutyNlwtL.SmUHu86sSF4k3md2%3FstartTime%3D1748353972000)
     
     - 05/28: Clusters and Regression | [without answers](https://colab.research.google.com/drive/1F0tOIYe-2Mk9Rd2tX950FmYiQllqxfL7) | [with answers](https://colab.research.google.com/drive/1g6NqceIhQhbdeJ0G3mcdMfbytm8MPKtK)
     
