@@ -26,7 +26,7 @@ If you are working on [Google Colab](https://colab.research.google.com/), you ca
 
     - 05/26: Memorial Day - NO CLASS
 
-    - 05/27: AI not ML |  [without answers](https://colab.research.google.com/drive/1kJAXgKzbfAg4KlCIzpG4GofpSEHhVNau) | [with answers](https://colab.research.google.com/drive/1SVAa70Au2fMvcEZxnwQ17mNI-m6_NQHv) [recording of the session](https://sc-edu.zoom.us/rec/play/3YXj4YWCG3IsFWhhE73K7EoCbrVHwR3vm2fmZefstFckofzCpgeWcpYfJOmdGdgkAyL_C1eK1wNFI-qw.mX6gNTu4o7IGmPir?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1748353972000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fsc-edu.zoom.us%2Frec%2Fshare%2F-NgWWwoUxIaRE0Ud8O2kz97_QpHudvP3kJBt3Ix9KC1wXDItn8IenqqVutyNlwtL.SmUHu86sSF4k3md2%3FstartTime%3D1748353972000)
+    - 05/27: AI not ML |  [without answers](https://colab.research.google.com/drive/1kJAXgKzbfAg4KlCIzpG4GofpSEHhVNau) | [with answers](https://colab.research.google.com/drive/1SVAa70Au2fMvcEZxnwQ17mNI-m6_NQHv) | [recording of the session](https://sc-edu.zoom.us/rec/play/3YXj4YWCG3IsFWhhE73K7EoCbrVHwR3vm2fmZefstFckofzCpgeWcpYfJOmdGdgkAyL_C1eK1wNFI-qw.mX6gNTu4o7IGmPir?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1748353972000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fsc-edu.zoom.us%2Frec%2Fshare%2F-NgWWwoUxIaRE0Ud8O2kz97_QpHudvP3kJBt3Ix9KC1wXDItn8IenqqVutyNlwtL.SmUHu86sSF4k3md2%3FstartTime%3D1748353972000)
     
     - 05/28: Clusters and Regression | [without answers](https://colab.research.google.com/drive/1F0tOIYe-2Mk9Rd2tX950FmYiQllqxfL7) | [with answers](https://colab.research.google.com/drive/1g6NqceIhQhbdeJ0G3mcdMfbytm8MPKtK)
     
