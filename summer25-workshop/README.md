@@ -12,6 +12,33 @@ Each lecture will be associated with a corresponding Jupyter Notebook.
 
 If you are working on [Google Colab](https://colab.research.google.com/), you can open these notebooks by clicking on the corresponding links below:
 
+- Week 2:
+    
+    - **Links to open base notebooks in Google Colab**:
+
+        - [AI not ML](https://colab.research.google.com/drive/1gKieppjYJiWw8MkVq9FbxiP3r9cpSsYM) | [Data Generation](https://colab.research.google.com/drive/1i9tYyaPcF9AciBOfi5zAMNhnlz5_ec4B) | [K-Means](https://colab.research.google.com/drive/15svvAzmtKuQAK0z3V46CCrQbwi2r0Kjp)
+
+        - [Regression](https://colab.research.google.com/drive/1aiHJjmwzcMlP420VF24YryoUtZEjAwAZ) 
+
+        - [KNN 1](https://colab.research.google.com/drive/12JLPydJz3NgA8kcR0QZXaaSDL_rxMWus) | [KNN 2](https://colab.research.google.com/drive/1v_K6ZrKpiUX3ZT0ThWEisgcU_BN9-1rp) | [Decision Tree](https://colab.research.google.com/drive/1Kb9pnqSIKCYcHAY0GofD1QtVOh2af9jt) | [Random Forest](https://colab.research.google.com/drive/1ECs71TK1BjhAXJwZYcH5ecq978vOQ6Bh)
+
+        - [ANN](https://colab.research.google.com/drive/1srZ3EIQr-QZO3vwndqZFBvdckNOzmC-l)
+<br>
+<br>
+
+    - 05/26: Memorial Day - NO CLASS
+
+    - 05/27: AI not ML |  [without answers](https://colab.research.google.com/drive/1kJAXgKzbfAg4KlCIzpG4GofpSEHhVNau) | [with answers](https://colab.research.google.com/drive/1SVAa70Au2fMvcEZxnwQ17mNI-m6_NQHv)
+    
+    - 05/28: Clusters and Regression | [without answers](https://colab.research.google.com/drive/1F0tOIYe-2Mk9Rd2tX950FmYiQllqxfL7) | [with answers](https://colab.research.google.com/drive/1g6NqceIhQhbdeJ0G3mcdMfbytm8MPKtK)
+    
+    - 05/29: KNN and DT | [without answers](https://colab.research.google.com/drive/1HGUekfCcPyLmoP-SlH0RTMblLhQbZn0-) | [with answers](https://colab.research.google.com/drive/1KkX7b5UyDiao0ScJXCKQLcYBunNTDq9K)
+    
+    - 05/30: ANN | [without answers](https://colab.research.google.com/drive/1iLl-iExzAdsp3cu_VVRQ2Lv7haPyv-zq) | [with answers](https://colab.research.google.com/drive/1X4sbhLZePS_u4RkaPRjho5gNvZQ081cJ)
+
+<br>
+<br>
+
 - Week 1:
     - 05/19: Introduction to Python | [without answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day1_into_python/day1_without_answers.ipynb) | [with answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day1_into_python/day1_with_answers.ipynb) |  [recording of the session](https://sc-edu.zoom.us/rec/share/iXPfhFBj4fvc14Kf5PRvFbqxu4UGnxM8Go6ILQOQxQvDtweprp2cHz_lM1SONe-n.p8mREBw7-40_3uVv?startTime=1747662716000) |
     
@@ -25,13 +52,5 @@ If you are working on [Google Colab](https://colab.research.google.com/), you ca
 
     - 05/23: Matplotlib and Seaborn - Visualization | [without answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day5_matplotlib_seaborn/day5_without_answers.ipynb) | [with answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day5_matplotlib_seaborn/day5_with_answers.ipynb) | [recording of the session](https://sc-edu.zoom.us/rec/share/zlBBjb_vUZ4g1FlFoL7orwfpK63AeULVgp-zv06HcpNaksrzbLe8xpBik6ZU3Hal.V1gwcbIJ0fmviv4u?startTime=1748008046000) |
 
-- Week 2:
-    - 05/26: Memorial Day - NO CLASS
 
-    - 05/27: AI not ML |  [without answers](https://colab.research.google.com/drive/1kJAXgKzbfAg4KlCIzpG4GofpSEHhVNau) | [with answers](https://colab.research.google.com/drive/1SVAa70Au2fMvcEZxnwQ17mNI-m6_NQHv)
-    
-    - 05/28: Clusters and Regression | [without answers](https://colab.research.google.com/drive/1F0tOIYe-2Mk9Rd2tX950FmYiQllqxfL7) | [with answers](https://colab.research.google.com/drive/1g6NqceIhQhbdeJ0G3mcdMfbytm8MPKtK)
-    
-    - 05/29: KNN and DT | [without answers](https://colab.research.google.com/drive/1HGUekfCcPyLmoP-SlH0RTMblLhQbZn0-) | [with answers](https://colab.research.google.com/drive/1KkX7b5UyDiao0ScJXCKQLcYBunNTDq9K)
-    
-    - 05/30: ANN | [without answers](https://colab.research.google.com/drive/1iLl-iExzAdsp3cu_VVRQ2Lv7haPyv-zq) | [with answers](https://colab.research.google.com/drive/1X4sbhLZePS_u4RkaPRjho5gNvZQ081cJ)
+
