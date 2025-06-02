@@ -32,7 +32,7 @@ If you are working on [Google Colab](https://colab.research.google.com/), you ca
     
     - 05/29: KNN and DT | [without answers](https://colab.research.google.com/drive/1HGUekfCcPyLmoP-SlH0RTMblLhQbZn0-) | [with answers](https://colab.research.google.com/drive/1KkX7b5UyDiao0ScJXCKQLcYBunNTDq9K) | [recording of the session](https://sc-edu.zoom.us/rec/play/tvlOAsjo8uW-vKc8Ank48Dkk3J4GL5hNa4lTKV6PjD8fLy8PRsjQQZDjpt60ObmucTYFmNYm-lz3G-dz.XU4cTJxnzaWneVdS?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fsc-edu.zoom.us%2Frec%2Fshare%2Fyy7IulrrmL_r3DR1APu5irypTwL15LF16wqOBVhKfaoUGK-jVs-hnGEYYJQBWNYb.iZUujT9eEW2YhfPm) |
     
-    - 05/30: ANN | [without answers](https://colab.research.google.com/drive/1iLl-iExzAdsp3cu_VVRQ2Lv7haPyv-zq) | [with answers](https://colab.research.google.com/drive/1X4sbhLZePS_u4RkaPRjho5gNvZQ081cJ) |
+    - 05/30: ANN | [without answers](https://colab.research.google.com/drive/1iLl-iExzAdsp3cu_VVRQ2Lv7haPyv-zq) | [with answers](https://colab.research.google.com/drive/1X4sbhLZePS_u4RkaPRjho5gNvZQ081cJ) | [recording of the session](https://sc-edu.zoom.us/rec/play/QcR7C5aNTA0_USH0-aqOwekbxKrSfPfVttal0lCj34s5XQpH1in-rFzQRgpF2UR8n4jupBeq3WwOikXq.uPTA9Sq5jd2zjdLa?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1748613063000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fsc-edu.zoom.us%2Frec%2Fshare%2FXm4fH3UMvDZBBYeSUK_5PPaWDbmdiy4DnfXuRHzCzNMo4nStHXYkVdCHvoxdDXZx.pNESUPTRYDaY9_50) |
 
 <br>
 <br>
