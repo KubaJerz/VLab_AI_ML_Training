@@ -10,6 +10,7 @@ This is an augmented version of the Breast cancer wisconsin (diagnostic) dataset
 :Number of Attributes: 30 numeric, predictive attributes and the class
 
 :Attribute Information:
+    - Patinet Identifiation Number (NOT real randomly generated for the dataset)
     - radius (mean of distances from center to points on the perimeter)
     - texture (standard deviation of gray-scale values)
     - perimeter
